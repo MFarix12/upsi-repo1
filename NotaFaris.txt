@@ -1,0 +1,41 @@
+Gitlab.com/isk6708
+
+VSC - Git
+IDE - VScode
+Database - MySQL, Postre
+WSL - enable
+
+Table gen X
+************
+
+1. users
+- id
+- password
+- name
+- email
+- address
+- phone_no
+
+Table gen Z
+************
+
+1. users
+- id
+- details (JSON) - Document store
+
+Command
+*******
+
+1. git clone
+2. git init
+3. git status
+4. git push
+5. git pull
+6. git commit -m "Message"
+7. git push branch -M main
+
+SSH Key (To Advance)
+*******
+1. ssh-keygen
+2. C:\Users\muham\.ssh
+3. Copy Paste dekat Github SSH key
